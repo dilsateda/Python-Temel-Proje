@@ -3,11 +3,11 @@
 
 input: [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 
-l = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
+ l = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 
-l1 = []
+ l1 = []
 
-def flatten(n):
+ def flatten(n):
     
     for i in n :
         
